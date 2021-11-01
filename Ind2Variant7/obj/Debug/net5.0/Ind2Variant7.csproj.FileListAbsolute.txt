@@ -1,0 +1,16 @@
+C:\Users\Данил\Desktop\Ind2Variant7\bin\Debug\net5.0\Ind2Variant7.exe
+C:\Users\Данил\Desktop\Ind2Variant7\bin\Debug\net5.0\Ind2Variant7.deps.json
+C:\Users\Данил\Desktop\Ind2Variant7\bin\Debug\net5.0\Ind2Variant7.runtimeconfig.json
+C:\Users\Данил\Desktop\Ind2Variant7\bin\Debug\net5.0\Ind2Variant7.runtimeconfig.dev.json
+C:\Users\Данил\Desktop\Ind2Variant7\bin\Debug\net5.0\Ind2Variant7.dll
+C:\Users\Данил\Desktop\Ind2Variant7\bin\Debug\net5.0\ref\Ind2Variant7.dll
+C:\Users\Данил\Desktop\Ind2Variant7\bin\Debug\net5.0\Ind2Variant7.pdb
+C:\Users\Данил\Desktop\Ind2Variant7\obj\Debug\net5.0\Ind2Variant7.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\Ind2Variant7\obj\Debug\net5.0\Ind2Variant7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Desktop\Ind2Variant7\obj\Debug\net5.0\Ind2Variant7.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\Ind2Variant7\obj\Debug\net5.0\Ind2Variant7.AssemblyInfo.cs
+C:\Users\Данил\Desktop\Ind2Variant7\obj\Debug\net5.0\Ind2Variant7.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\Ind2Variant7\obj\Debug\net5.0\Ind2Variant7.dll
+C:\Users\Данил\Desktop\Ind2Variant7\obj\Debug\net5.0\ref\Ind2Variant7.dll
+C:\Users\Данил\Desktop\Ind2Variant7\obj\Debug\net5.0\Ind2Variant7.pdb
+C:\Users\Данил\Desktop\Ind2Variant7\obj\Debug\net5.0\Ind2Variant7.genruntimeconfig.cache
